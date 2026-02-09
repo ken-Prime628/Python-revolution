@@ -7,6 +7,7 @@ print("The maximum number is",y)
 x = min(45,78,89,43,2,456,2334,34,98)
 print("The minimum number is",x)
 
+print()
 
 # User - defined Functions
 def name():
