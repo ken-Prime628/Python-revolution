@@ -16,7 +16,5 @@ print(employee1.fullname,employee1.position,employee1.status,employee1.age)
 employee1.work()
 
 
-
-
 employee2 =employee("Jean Kamau",'Program Manager',"Single",34)
 employee3 =employee("Mark Joe","lecturer","Single",44)
