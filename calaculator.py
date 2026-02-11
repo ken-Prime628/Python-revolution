@@ -5,7 +5,7 @@ try:
 
 
     num1 = float(input("Enter first number: "))
-    operator = input("Enter operator (+, -, *, /): ")
+    operator = input("Enter operator : ")
     num2 = float(input("Enter last number: "))
 
     if operator == "+":
@@ -30,7 +30,7 @@ try:
     else:
         print("Invalid operator")
 
-    
+
 
 except:
     print("Invalid operator")
