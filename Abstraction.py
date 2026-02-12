@@ -1,4 +1,4 @@
-# Encapsulation is the process of wrapping data and methods into a single unit (class) and restricting direct access to some of the data.
+#Encapsulation - is the process of wrapping data and methods into a single unit (class) and restricting direct access to some of the data.
 
 class Student:
     def __init__(self, name, marks):
@@ -18,4 +18,3 @@ s1 = Student("Ken", 85)
 
 print(s1.get_marks())   # 85
 s1.set_marks(-50)       # Not allowed
-
